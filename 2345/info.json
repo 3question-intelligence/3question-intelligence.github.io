@@ -1,0 +1,414 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://safe.2345.cc/",
+            "path": "index.html",
+            "saved": true,
+            "size": 8120,
+            "children": [
+                {
+                    "url": "https://safe.2345.cc/img/index/logo.png?v20210422",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/img/index/renzheng_gab2.png",
+                    "path": "img/renzheng_gab2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/js/jquery-1.8.3.min.js",
+                    "path": "js/jquery-1.8.3.min.js",
+                    "saved": true,
+                    "size": 93637,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/js/config.js?2020",
+                    "path": "js/config.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/js/jquery.mousewheel.js",
+                    "path": "js/jquery.mousewheel.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/js/jquery.scrollTo.min.js?2020",
+                    "path": "js/jquery.scrollTo.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/js/index_v.js?202006",
+                    "path": "js/index_v.js",
+                    "saved": true,
+                    "size": 8593,
+                    "children": []
+                },
+                {
+                    "url": "https://web.50bangzh.com/js/2345safe",
+                    "path": "js/2345safe.js",
+                    "saved": true,
+                    "size": 369,
+                    "children": []
+                },
+                {
+                    "url": "https://safe.2345.cc/css/index.css?202006",
+                    "path": "css/index.css",
+                    "saved": true,
+                    "size": 24435,
+                    "children": [
+                        {
+                            "url": "https://safe.2345.cc/img/index/idx-common.png",
+                            "path": "img/idx-common.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/idx-screen-2.png",
+                            "path": "img/idx-screen-2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/idx-screen-0.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-screen-0-bg.png",
+                            "path": "img/v4-screen-0-bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/screen-1-bg.jpg",
+                            "path": "img/screen-1-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/screen-2-bg.jpg",
+                            "path": "img/screen-2-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-cover.png",
+                            "path": "img/v4-cover.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/screen-2-img-before.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/screen-2-img-after.jpg",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/screen-footer-bg.jpg",
+                            "path": "img/screen-footer-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/info-01.png",
+                            "path": "img/info-01.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-btn.png",
+                            "path": "img/v4-btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v6-guanjia.png",
+                            "path": "img/v6-guanjia.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/big-bubble.png",
+                            "path": "img/big-bubble.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/small-bubble.png",
+                            "path": "img/small-bubble.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/title.png",
+                            "path": "img/title.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/list-dot-4.png",
+                            "path": "img/list-dot-4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/title1.png",
+                            "path": "img/title1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/list-dot.png",
+                            "path": "img/list-dot.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/safe.png",
+                            "path": "img/safe.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/front-bubble.png",
+                            "path": "img/front-bubble.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/safe-02.png",
+                            "path": "img/safe-02.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/safe-03.png",
+                            "path": "img/safe-03.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/2345.png",
+                            "path": "img/2345.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/btn-sb6ba5b43a9.png",
+                            "path": "img/btn-sb6ba5b43a9.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/down.png",
+                            "path": "img/down.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/h-down.png",
+                            "path": "img/h-down.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/go-to-top.png",
+                            "path": "img/go-to-top.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/h-go-to-top.png",
+                            "path": "img/h-go-to-top.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/go-to-top-last.png",
+                            "path": "img/go-to-top-last.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/h-go-to-top-last.png",
+                            "path": "img/h-go-to-top-last.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-info.png",
+                            "path": "img/s-info.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-v4-btn.png",
+                            "path": "img/s-v4-btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-v6-guanjia.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-jiasu.png",
+                            "path": "img/v4-jiasu.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-laji.png",
+                            "path": "img/v4-laji.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/v4-muma.png",
+                            "path": "img/v4-muma.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-title.png",
+                            "path": "img/s-title.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-title1.png",
+                            "path": "img/s-title1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-safe.png",
+                            "path": "img/s-safe.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://safe.2345.cc/img/index/s-2345.png",
+                            "path": "img/s-2345.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://safe.2345.cc/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "safe-2345-cc-0v8p9een",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://safe.2345.cc/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://safe.2345.cc/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Sat, 15 Jan 2022 11:10:38 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Fri, 26 Nov 2021 08:49:31 GMT",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"61a09f9b-249f\""
+            }
+        },
+        "time": {
+            "start": "2022-01-15T11:10:36.741Z",
+            "end": "2022-01-15T11:11:01.474Z"
+        },
+        "remark": [],
+        "title": "2345安全卫士官网-免费杀毒软件|强力查杀木马-官方下载",
+        "ip": "180.163.196.53",
+        "url": "https://safe.2345.cc/",
+        "main": "index.html",
+        "domain": "safe.2345.cc",
+        "origin": "https://safe.2345.cc",
+        "totalSize": "135 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://safe.2345.cc/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
